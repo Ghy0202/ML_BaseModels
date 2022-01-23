@@ -1,0 +1,186 @@
+{
+  "batch_size": 64,
+  "epoch": 5,
+  "num_layers": 4,
+  "hidden_nodes": 1024,
+  "dropout": 0,
+  "optimizer": "adam",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "acc": 0.3786
+}{
+  "batch_size": 64,
+  "epoch": 5,
+  "num_layers": 4,
+  "hidden_nodes": 1024,
+  "dropout": 0.1,
+  "optimizer": "adam",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "acc": 0.3786
+}{
+  "batch_size": 64,
+  "epoch": 5,
+  "num_layers": 4,
+  "hidden_nodes": 1024,
+  "dropout": 0.1,
+  "optimizer": "adam",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "acc": 0.3439
+}{
+  "batch_size": 64,
+  "epoch": 5,
+  "num_layers": 3,
+  "hidden_nodes": 1024,
+  "dropout": 0.1,
+  "optimizer": "sgd",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "acc": 0.2629
+}{
+  "batch_size": 64,
+  "epoch": 10,
+  "num_layers": 3,
+  "hidden_nodes": 1024,
+  "dropout": 0.1,
+  "optimizer": "sgd",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "acc": 0.284
+}{
+  "batch_size": 64,
+  "epoch": 5,
+  "num_layers": 3,
+  "hidden_nodes": 1024,
+  "dropout": 0.1,
+  "optimizer": "adam",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "acc": 0.3064
+}{
+  "batch_size": 64,
+  "epoch": 5,
+  "num_layers": 3,
+  "hidden_nodes": 1024,
+  "dropout": 0.1,
+  "optimizer": "ada",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "acc": 0.2631
+}{
+  "batch_size": 64,
+  "epoch": 100,
+  "num_layers": 4,
+  "hidden_nodes": 1024,
+  "dropout": 0.1,
+  "optimizer": "sgd",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "acc": 0.3531
+}{
+  "batch_size": 64,
+  "epoch": 100,
+  "num_layers": 4,
+  "hidden_nodes": 1024,
+  "dropout": 0.1,
+  "optimizer": "ada",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "acc": 0.318
+}{
+  "batch_size": 64,
+  "epoch": 10,
+  "num_layers": 4,
+  "hidden_nodes": 1024,
+  "dropout": 0,
+  "optimizer": "sgd",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "activate": "sigmoid",
+  "acc": 0.1723
+}{
+  "batch_size": 64,
+  "epoch": 100,
+  "num_layers": 3,
+  "hidden_nodes": 1024,
+  "dropout": 0,
+  "optimizer": "sgd",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "acc": 0.3402
+}{
+  "batch_size": 64,
+  "epoch": 100,
+  "num_layers": 4,
+  "hidden_nodes": 1024,
+  "dropout": 0,
+  "optimizer": "sgd",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "activate": "sigmoid",
+  "acc": 0.2559
+}{
+  "batch_size": 64,
+  "epoch": 100,
+  "num_layers": 4,
+  "hidden_nodes": 1024,
+  "dropout": 0,
+  "optimizer": "ada",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "acc": 0.3288
+}{
+  "batch_size": 64,
+  "epoch": 100,
+  "num_layers": 4,
+  "hidden_nodes": 505,
+  "dropout": 0,
+  "optimizer": "sgd",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "activate": "sigmoid",
+  "acc": 0.2559
+}{
+  "batch_size": 64,
+  "epoch": 180,
+  "num_layers": 4,
+  "hidden_nodes": 505,
+  "dropout": 0.3,
+  "optimizer": "sgd",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "activate": "sigmoid",
+  "acc": 0.2702
+}{
+  "batch_size": 64,
+  "epoch": 280,
+  "num_layers": 4,
+  "hidden_nodes": 505,
+  "dropout": 0.3,
+  "optimizer": "sgd",
+  "lr": 0.001,
+  "loss_func": "mle",
+  "activate": "sigmoid",
+  "acc": 0.2813
+}{
+  "batch_size": 64,
+  "epoch": 200,
+  "num_layers": 4,
+  "hidden_nodes": 505,
+  "dropout": 0,
+  "optimizer": "ada",
+  "lr": 0.001,
+  "loss_func": "cross_entropy",
+  "acc": 0.3394
+}{
+  "batch_size": 64,
+  "epoch": 200,
+  "num_layers": 4,
+  "hidden_nodes": 505,
+  "dropout": 0,
+  "optimizer": "ada",
+  "lr": 0.01,
+  "loss_func": "cross_entropy",
+  "acc": 0.3394
+}
